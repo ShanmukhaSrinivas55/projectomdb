@@ -1,0 +1,25 @@
+/* .row{
+  float:right;
+  position:relative;
+  top:-400px;
+
+}
+.extra2{
+    display:none;
+}
+@media only screen and (max-width: 800px){
+
+    img{
+        width:250px;
+        height:350px;
+    } 
+    .extra1{
+        display:none;
+    }
+    .extra2{
+        display:inline-block;
+        position:relative;
+        top:400px;
+    }
+} */
+
